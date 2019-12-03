@@ -1,7 +1,7 @@
 import React from 'react';
 import { directors } from '../data';
 
-const Directors = ({ directors }) => {
+const Directors = () => {
   return (
     <div>
       <h1>Directors Page</h1>
